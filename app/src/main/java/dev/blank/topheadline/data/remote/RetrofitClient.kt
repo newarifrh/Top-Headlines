@@ -19,7 +19,7 @@ object RetrofitClient {
                 val original = chain.request()
                 val request = original.newBuilder()
                     .header("X-Api-Key", Config.API_KEY)
-                    .method(original.method, original.body)
+                    .method(original.method(), original.body())
                     .build()
                 chain.proceed(request)
             }
