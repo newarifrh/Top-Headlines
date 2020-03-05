@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Top 10 Headlines</string>
+    <string name="news_photos">News Photos</string>
+    <string name="the_title_of_a_news">The Title of a News</string>
+    <string name="the_description_of_a_news">The Description of a News</string>
+    <string name="the_author_of_a_news">The Author of a News</string>
+    <string name="the_date_of_a_news">The Date of a News</string>
+    <string name="the_source_of_a_news">The Source of a News</string>
+    <string name="synchronize">Synchronize</string>
+</resources>
