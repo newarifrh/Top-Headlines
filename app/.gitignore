@@ -1,3 +1,4 @@
 /build
 /src/main/java/dev/blank/topheadline/data/manager/Config.kt
 /release/app-release.aab
+/debug/app-debug.aab
